@@ -8,6 +8,7 @@ Colaboradores:
 - Maria Eduarda de Souza Silveira
 
 Funções Adicionadas:
+
 //Remover todas ocorrencias e retornar quantos removeu
 - public int removerTodas(String elemento);
 //Retornar qtd total de elementos válidos (exceto null)
